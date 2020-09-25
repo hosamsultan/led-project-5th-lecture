@@ -23,6 +23,6 @@ void main(void)
 	PORTA_ODR  = 0x00000001;
 	while(1)
 	{
-
+		/*comment*/
 	}
 }
